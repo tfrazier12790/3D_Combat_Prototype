@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f21aeda33bb17f34bbee118b2d83af25, type: 3}
+  m_Name: Goblin
+  m_EditorClassIdentifier: 
+  enemyName: Goblin
+  maxHealth: 10
+  currentHealth: 10
+  exp: 0
+  attacks:
+  - {fileID: 11400000, guid: 0b36c81efa10bc041a0814723a67643a, type: 2}
+  - {fileID: 11400000, guid: 06dce8fa5b4dd88449294c44a5fa4265, type: 2}
